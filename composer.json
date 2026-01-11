@@ -1,0 +1,13 @@
+{
+  "name": "ayman/wallet-app",
+  "description": "A simple personal finance wallet app built with PHP OOP and MVC.",
+  "type": "project",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "MVC\\": "app/"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {}
+}
